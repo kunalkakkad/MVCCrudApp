@@ -1,0 +1,9 @@
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\MVC_Sumeet_Crud.Models.dll.config
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\MVC_Sumeet_Crud.Models.dll
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\MVC_Sumeet_Crud.Models.pdb
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\EntityFramework.dll
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\EntityFramework.xml
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\obj\Debug\MVC_Sumeet_Crud.Models.dll
+C:\Users\Developer-Terminal\Documents\Visual Studio 2017\Projects\MVC_Sumeet_Crud\MVC_Sumeet_Crud.Models\obj\Debug\MVC_Sumeet_Crud.Models.pdb
